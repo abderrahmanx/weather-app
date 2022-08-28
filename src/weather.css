@@ -1,0 +1,148 @@
+.weather-infos h2{
+color: rgb(255, 255, 255);
+font-size: 8rem;
+font-family: Verdana;
+font-weight: 400;
+
+}
+.weather-infos h4{
+    color: white;
+    font-size: 1.5em;
+    font-family: Verdana;
+    font-weight: 600;
+    margin-left: 1vw;
+    }
+    .weather-infos span{
+        color: white;
+        font-size: 1.2em;
+        font-family: Verdana;
+        font-weight: 200;
+        margin-left: 1vw;
+   
+            }
+.weather-infos{
+margin-top: 5vh;
+margin-left:2vw ;
+display: flex;
+
+}
+.weather-icon{
+color: yellow;
+font-size: 8em;
+margin-left: 5vw;
+}
+.sun-p{
+    color: yellow;
+    font-size: 30px;
+    font-family: Verdana;
+    font-weight: 600;
+    margin-left: 4vw;
+    margin-top: -2vh;
+    }
+
+    .clouds{
+color: gray;
+     
+    }
+    .cloud-icon{
+        transform: translateX(-5px);
+    }
+    .clouds-p{
+        color: gray;
+        font-size: 30px;
+        font-family: Verdana;
+        font-weight: 600;
+       
+        margin-top: -2vh;
+        }
+
+        .snow{
+            color: rgb(144, 184, 209);
+        }
+        .snow-icon{
+            transform: translateX(-5px);
+        }
+        .snow-p{
+       
+            font-size: 30px;
+            font-family: Verdana;
+            font-weight: 600;
+           margin-left: 2vw;
+            margin-top: -2vh;
+            }
+            .rain{
+                color: rgb(64, 154, 211);
+            }
+            .rain-icon{
+                transform: translateX(-5px);
+            }
+            .rain-p{
+           
+                font-size: 30px;
+                font-family: Verdana;
+                font-weight: 600;
+               margin-left: 4vw;
+                margin-top: -2vh;
+                }
+               
+ .fog{
+     color: rgb(207, 207, 207);
+      }
+  .fog-icon{
+  transform: translateX(-5px);
+  }
+ .fog-p{
+
+     font-size: 30px;
+     font-family: Verdana;
+      font-weight: 600;
+     margin-left: 4vw;
+    margin-top: -2vh;
+     }
+    .date-infos
+     {
+display: flex;
+flex-direction: column;
+                }
+                .time{
+margin-top: 3vh;
+color: white;
+font-size:30px;
+font-family: Verdana;
+font-weight: 500;
+margin-left: 3vw;
+                }
+.enter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+} 
+.enter h1{
+    margin-top: 3vh;
+color: rgb(255, 255, 255);
+background-color: rgba(0,0, 0,.5);
+padding: 40px;
+font-size:3rem;
+font-family: Verdana;
+font-weight: 700;
+margin-left: 3vw;
+border-radius: 8px;
+}               
+.storm-p{
+    font-size: 25px;
+     font-family: Verdana;
+      font-weight: 600;
+   margin-left: -7vw;
+    margin-top: -2vh; 
+}
+@media(min-width:520px)
+{
+.enter{
+justify-content: start;
+}
+.sun-p{
+    margin-right:50px ;
+}
+
+}

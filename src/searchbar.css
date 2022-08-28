@@ -1,0 +1,30 @@
+.search-bar input{
+width: 90vw;
+max-width: 480px;
+margin: 1rem;
+height: 5vh;
+padding: 1rem;
+font-size: 1.3rem;
+border-radius: 1rem;
+border:none ;
+outline: none;
+background-color: rgba(255, 255, 255, .8);
+transition: .5s;
+}
+.search-bar input:focus{
+    background-color: rgba(255, 255, 255, 1);
+
+}
+
+
+.search-bar span{
+position: absolute;
+    transform: translate(-55px,3.3vh);
+  
+    font-size: 1.2rem;
+}
+
+.search-bar span:hover{
+cursor: pointer;
+
+}

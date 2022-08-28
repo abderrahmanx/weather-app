@@ -1,0 +1,51 @@
+@import './searchbar.css';
+@import './weather.css';
+
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+
+}
+body{
+display: flex;
+justify-content: center;
+background-image: url("sunny.jpeg");
+background-size: 520px 100vh ;
+background-repeat: no-repeat;
+}
+
+body.fog{
+    background-image: url("Dreams.png");
+    background-size:520px 100vh ;
+}
+body.rain{
+background-image: url("rainy.jpeg");
+    background-size:520px 100vh ;
+} 
+body.snow{
+    background-image: url("snow.png");
+    background-size: 520px 100vh ;
+}
+body.clouds{
+    background-image: url("clouds.jpeg");
+    background-size:520px 100vh ;
+}
+body.storm{
+    background-image: url("storm.jpeg");
+    background-size:520px 100vh ;
+}
+@media(min-width:520px)
+{
+    body{
+        justify-content: center;
+        background-position: center;
+        background-size: auto,80vh;
+       height: 100vh;
+        background-color: rgb(207, 207, 207);
+    }
+    body.clouds{
+        background-size:auto,80vh;
+    }
+  
+}
