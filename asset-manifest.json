@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/abderrahmanx/weather-app.git/static/css/main.579591b8.css",
-    "main.js": "/abderrahmanx/weather-app.git/static/js/main.20299b45.js",
-    "static/media/snow.png": "/abderrahmanx/weather-app.git/static/media/snow.a1e61b0f5d8889eae7b4.png",
-    "static/media/Dreams.png": "/abderrahmanx/weather-app.git/static/media/Dreams.abef9f634c7a4d7ea78c.png",
-    "static/media/sunny.jpeg": "/abderrahmanx/weather-app.git/static/media/sunny.47067d57ff75b0eaa7e3.jpeg",
-    "static/media/rainy.jpeg": "/abderrahmanx/weather-app.git/static/media/rainy.311c233d6aa64703a4c5.jpeg",
-    "static/media/clouds.jpeg": "/abderrahmanx/weather-app.git/static/media/clouds.fb9dc4ad61b0f6ad452d.jpeg",
-    "static/media/storm.jpeg": "/abderrahmanx/weather-app.git/static/media/storm.651361bb730abd7f5aad.jpeg",
-    "index.html": "/abderrahmanx/weather-app.git/index.html",
-    "main.579591b8.css.map": "/abderrahmanx/weather-app.git/static/css/main.579591b8.css.map",
-    "main.20299b45.js.map": "/abderrahmanx/weather-app.git/static/js/main.20299b45.js.map"
+    "main.css": "/weather-app/static/css/main.cc2db740.css",
+    "main.js": "/weather-app/static/js/main.20299b45.js",
+    "static/media/snow.png": "/weather-app/static/media/snow.a1e61b0f5d8889eae7b4.png",
+    "static/media/Dreams.png": "/weather-app/static/media/Dreams.abef9f634c7a4d7ea78c.png",
+    "static/media/sunny.jpeg": "/weather-app/static/media/sunny.47067d57ff75b0eaa7e3.jpeg",
+    "static/media/rainy.jpeg": "/weather-app/static/media/rainy.311c233d6aa64703a4c5.jpeg",
+    "static/media/clouds.jpeg": "/weather-app/static/media/clouds.fb9dc4ad61b0f6ad452d.jpeg",
+    "static/media/storm.jpeg": "/weather-app/static/media/storm.651361bb730abd7f5aad.jpeg",
+    "index.html": "/weather-app/index.html",
+    "main.cc2db740.css.map": "/weather-app/static/css/main.cc2db740.css.map",
+    "main.20299b45.js.map": "/weather-app/static/js/main.20299b45.js.map"
   },
   "entrypoints": [
-    "static/css/main.579591b8.css",
+    "static/css/main.cc2db740.css",
     "static/js/main.20299b45.js"
   ]
 }
